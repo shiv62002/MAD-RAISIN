@@ -21,9 +21,7 @@ This project implements a simple processor simulator in C by developing an assem
 
 ## Key Takeaways
 This project highlights my ability to:
-- interpret and execute assembly-like instructions  
-- scan binary values and extract data using bit operators  
-- manage arrays and memory during instruction execution  
-- build a working processor simulation in C within a UNIX environment
-
-## Example Command Line Usage
+- Interpret and execute assembly-like instructions  
+- Scan binary values and extract data using bit operators  
+- Manage arrays and memory during instruction execution  
+- Build a working processor simulation in C within a UNIX environment
